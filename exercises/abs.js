@@ -11,6 +11,23 @@
 
 // Your code :
 
+function abs (num){
+    if (num < 0){
+
+    } else if (num == null || num == '' || num = )
+};
+
+// Math.abs('-1');     // 1
+// Math.abs(-2);       // 2
+// Math.abs(null);     // 0
+// Math.abs('');       // 0
+// Math.abs([]);       // 0
+// Math.abs([2]);      // 2
+// Math.abs([1,2]);    // NaN
+// Math.abs({});       // NaN
+// Math.abs('string'); // NaN
+// Math.abs();         // NaN
+
 //* Begin of tests
 const assert = require('assert')
 
