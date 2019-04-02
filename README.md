@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jenna1k/js-training.svg?branch=master)](https://travis-ci.org/jenna1k/js-training) 
+[![Build Status](https://travis-ci.org/jenna1k/js-training.svg?branch=master)](https://travis-ci.com/jenna1k/js-training/builds/106738571) 
 
 ## Setup
 First, [**fork**](https://github.com/nan-academy/js-training/fork?fragment=1) this repository.
